@@ -21,7 +21,7 @@ Análise Exploratório de Dados (EDA): Para identificar padrões e anomalias nos
 Modelos Preditivos: Utilizando algoritmos de Machine Learning para prever a chegada de turistas nos próximos anos.
 Visualização de Dados: Criando dashboards interativos para facilitar a interpretação e compartilhamento dos insights.
 
-##Resultados Preliminares
+## Resultados Preliminares
 
 As análises iniciais já estão revelando tendências interessantes, como os períodos de alta e baixa sazonalidade, bem como o impacto de eventos globais e políticas nacionais na chegada de turistas. Esses insights serão fundamentais para apoiar estratégias de marketing e promoção do Brasil como destino turístico.
 
