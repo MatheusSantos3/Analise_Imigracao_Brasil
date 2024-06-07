@@ -10,7 +10,9 @@
 Nosso objetivo é compreender as tendências históricas na chegada de turistas ao Brasil e prever o fluxo de turistas para os próximos 10 anos. Essa análise será crucial para:
 
 Tomada de Decisões: Fornecer informações valiosas para agências de turismo, hotéis e outras partes interessadas na indústria.
+
 Planejamento Estratégico: Ajudar na alocação de recursos e no desenvolvimento de estratégias para atrair mais visitantes.
+
 Desenvolvimento Sustentável: Contribuir para um crescimento sustentável do turismo no Brasil, respeitando os recursos naturais e culturais.
 
 ## Metodologia Utilizada
@@ -18,8 +20,10 @@ Desenvolvimento Sustentável: Contribuir para um crescimento sustentável do tur
 Estamos empregando diversas ferramentas e técnicas de análise de dados, incluindo:
 
 Análise Exploratório de Dados (EDA): Para identificar padrões e anomalias nos dados históricos.
+
 Modelos Preditivos: Utilizando algoritmos de Machine Learning para prever a chegada de turistas nos próximos anos.
-Visualização de Dados: Criando dashboards interativos para facilitar a interpretação e compartilhamento dos insights.
+
+Visualização de Dados: Criando gráficos para facilitar a interpretação e compartilhamento dos insights.
 
 ## Resultados Preliminares
 
